@@ -1,0 +1,13 @@
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\ExchangeRestApiDemo.exe
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\ExchangeRestApiDemo.pdb
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.Properties.Resources.resources
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.csproj.GenerateResource.cache
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.csproj.CoreCompileInputs.cache
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.exe
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.pdb
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.Form1.resources
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\Newtonsoft.Json.dll
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\Newtonsoft.Json.xml
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\obj\Debug\ExchangeRestApiDemo.csproj.CopyComplete
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\ExchangeRestApiDemo.exe.CodeAnalysisLog.xml
+D:\cshap\BitzRestApi\ExchangeRestApiDemo\bin\Debug\ExchangeRestApiDemo.exe.lastcodeanalysissucceeded

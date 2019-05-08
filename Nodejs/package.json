@@ -1,0 +1,22 @@
+{
+  "name": "node_api_demo",
+  "version": "1.0.0",
+  "description": "api node demo ",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bit-z",
+    "api"
+  ],
+  "author": "JeFF",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "co": "^4.6.0",
+    "co-sleep": "^0.0.1",
+    "crypto-js": "^3.1.9-1",
+    "request": "^2.72.0"
+  }
+}
